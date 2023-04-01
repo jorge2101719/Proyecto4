@@ -1,0 +1,30 @@
+
+h3, p {
+    font-family: 'Roboto Serif', serif;
+}
+
+h6{
+    font-family: 'Roboto Serif', serif;
+    color: gray;
+    
+}
+
+button{
+    
+    font-family: 'Roboto Serif', serif !important;
+}
+
+a:hover{
+    
+    color: rgb(17, 119, 111) !important;
+}
+
+.d-block {
+    /* position: absolute; */
+    /* top: 0; */
+    width: 200px;
+    height: 200px ;
+    object-fit:cover;
+    object-position: center;
+    
+}
